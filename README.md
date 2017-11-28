@@ -1,6 +1,7 @@
-# python_data_analysis
+# Python Data Analysis
 
-This repository currently contains three Jupyter notebooks about following data analysis jobs. 
+This repository contains Jupyter notebooks related to following data analysis work.
+
 1. Analysis of 911 call data from Kaggle. 
 2. Analysis of stock prices from Google Finance. 
 3. Analysis of Stroop Effect
